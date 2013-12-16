@@ -31,7 +31,7 @@ A bastardized, poorly written, barely functional python interpreter with all the
 Use `make` to build the program:
 
 Run individual test cases with:
-./run < testsuite/[NAME_OF_TEST_CASE].py
+`./run < testsuite/[NAME_OF_TEST_CASE].py`
 
 To create the AST, just enter `make pdf`
 This generates the AST `ast.pdf` from AST.gv
